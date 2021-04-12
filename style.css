@@ -125,3 +125,22 @@ body {
 .delete-btn i {
   color: #fefefe;
 }
+
+.alert {
+  color: #fefefe;
+  padding: 0.5rem 1rem;
+  margin: 0.25rem 0;
+  border-radius: 10px;
+}
+
+.alert-danger {
+  background-color: red;
+}
+
+.alert-success {
+  background-color: green;
+}
+
+.alert-info {
+  background-color: #12c8ff;
+}
